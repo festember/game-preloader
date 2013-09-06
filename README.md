@@ -15,5 +15,19 @@ update the manifest list to include all your image filenames along with some ran
 - ####**images/**  
 Drop all your image assets into this folder.
 
+- ####**sounds/**  
+Drop all your audio assets into this folder.
+
+- ####**fonts/**  
+Drop all your fonts into this folder.
+
+
+###Tips:
+- Resize your assets to exactly what size is required.
+- Compress images into 'jpg' if there is no transparency required in the image.
+- Else if 'png' use http://tinypng.org to compress them further. ( It will preserve transparency )
+ 
+#####Important:
+- Clone the repo and put your files in it and make appropriate modifications to your scripts as necessary.
 
 -Delta
